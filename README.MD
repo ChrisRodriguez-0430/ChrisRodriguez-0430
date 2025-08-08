@@ -1,96 +1,66 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Christian Paul | Portafolio</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Segoe UI', sans-serif;
-      background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
-      color: #fff;
-      animation: fadeIn 1.5s ease-in;
-    }
+<!-- Banner Dinámico SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F2C811&center=true&vCenter=true&width=1000&lines=👋+Hola%2C+soy+Christian+Paul+Rodriguez+Perez;🚀+Software+Developer+%7C+Data+Analyst+%7C+RPA+Developer;💡+Transformo+ideas+en+soluciones+digitales+que+impact--
 
-    header {
-      text-align: center;
-      padding: 2rem;
-    }
+## 🎯 Sobre mí
 
-    h1 {
-      font-size: 2.5rem;
-      margin-bottom: 0.5rem;
-    }
+🎓 Estudiante de Ingeniería en Software en **UTXJ**  
+🔍 En constante búsqueda de retos para crecer técnica y profesionalmente  
+💻 Experiencia en proyectos **académicos y profesionales**  
+🌐 Apasionado por el **desarrollo fullstack**, **automatización**, y **visualización de datos**
 
-    p {
-      font-size: 1.2rem;
-      margin-top: 0;
-    }
+---
 
-    section {
-      max-width: 900px;
-      margin: auto;
-      padding: 2rem;
-    }
+## 🛠️ Tecnologías y Herramientas
 
-    .card {
-      background-color: rgba(255, 255, 255, 0.1);
-      border-radius: 10px;
-      padding: 1.5rem;
-      margin-bottom: 1rem;
-      transition: transform 0.3s ease;
-    }
+### 💡 Lenguajes
+![Java](https://img.shields.io/badge/Java-ED8B00?o/badge/Python-377679A1?style=for-the-badge/ttps://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logolds.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=whitee-badge&logo=uipath&logoColor(2025)**  
+⚙️ Automatización de procesos con **UiPath**, integración con Office y desarrollo de chatbot para flujo de trabajo
 
-    .card:hover {
-      transform: scale(1.02);
-    }
+### 📊 Data Analyst  
+**Universidad Tecnológica de Xicotepec de Juárez (2023-2024)**  
+📈 Análisis de datos académicos y visualización con **Power BI** y **Python**
 
-    footer {
-      text-align: center;
-      padding: 1rem;
-      font-size: 0.9rem;
-      color: #ccc;
-    }
+### 🌐 Web Developer  
+**UTXJ (2022-2023)**  
+💻 Desarrollo de interfaces responsivas con **Angular**, **JavaScript**, y **Node.js**
 
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(20px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <h1>Christian Paul Rodriguez Perez</h1>
-    <p>Software Developer | Data Analyst | RPA Developer</p>
-  </header>
+### 📱 Mobile Developer  
+**C.B.T.I.S (2021-2022)**  
+📲 Aplicaciones educativas con **React Native**, diseño UI/UX en **Figma** y **Adobe XD**
 
-  <section>
-    <div class="card">
-      <h2>🚀 Sobre mí</h2>
-      <p>Estudiante de Ingeniería en Software en UTXJ. Apasionado por el desarrollo fullstack, automatización y visualización de datos.</p>
-    </div>
+### 📁 Data Entry Assistant  
+**ESC. Nezahualcoyotl (2020-2021)**  
+🗂️ Gestión de datos administrativos con **SQL CRUD** y **Microsoft Excel**
 
-    <div class="card">
-      <h2>🛠 Tecnologías</h2>
-      <p>Java, JavaScript, Python, SQL, Angular, React Native, Node.js, MongoDB, UiPath, Power BI, Figma, Docker, GitHub, entre otras.</p>
-    </div>
+---
 
-    <div class="card">
-      <h2>💼 Experiencia</h2>
-      <ul>
-        <li>RPA Developer en NUBAY (2025)</li>
-        <li>Data Analyst en UTXJ (2023-2024)</li>
-        <li>Web Developer en UTXJ (2022-2023)</li>
-        <li>Mobile Developer en CBTIS (2021-2022)</li>
-      </ul>
-    </div>
+## 📚 Formación Académica
 
-    <div class="card">
-      <h2>📫 Contacto</h2>
-      <p>Email: christianpaulrodriguezperez@gmail.com</p>
-      <p>LinkedIn: <a href="https://www.linkedin.com/in/christian-paul-rodriguez-perez-1616b3374/" target="_blank" style="color>
-    <p>© 2025 Christian Paul Rodriguez Perez</p>
-  </footer>
-</body>
-</html>
+🎓 **Ingeniería en Software Developer** – UTXJ *(2023 - Actualmente)*  
+🎓 **Técnico en Programación** – CBTIS *(2020 - 2023)*
+
+---
+
+## 🧠 Habilidades Blandas
+
+- 💪 Control de estrés  
+- ✅ Responsabilidad y autodisciplina  
+- 🗣️ Comunicación efectiva  
+- 🔄 Adaptabilidad a la presión  
+- 📚 Aprendizaje autónomo
+
+---
+
+## 🌍 Idiomas
+
+- 🇲🇽 Español: Nativo  
+- 🇺🇸 Inglés: Intermedio (B1) – en proceso de mejora
+
+---
+
+## 📫 Contacto
+
+📧 **[christianaulrodriguezperez@gmail.com**  
+📱 **776-153-2728**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/christian-paul-rodriguez-perez-1616b337🚀
