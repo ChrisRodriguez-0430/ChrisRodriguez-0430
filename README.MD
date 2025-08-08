@@ -1,5 +1,6 @@
-<!-- Banner Dinámico SVG -->
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F2C811&center=true&vCenter=true&width=1000&lines=👋+Hola%2C+soy+Christian+Paul+Rodriguez+Perez;🚀+Software+Developer+%7C+Data+Analyst+%7C+RPA+Developer;💡+Transformo+ideas+en+soluciones+digitales
+
 ## 🎯 Sobre mí
 
 🎓 Estudiante de Ingeniería en Software en **UTXJ**  
