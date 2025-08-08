@@ -1,103 +1,96 @@
-# 👋 ¡Hola! Soy Christian Paul Rodriguez Perez
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Christian Paul | Portafolio</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+      color: #fff;
+      animation: fadeIn 1.5s ease-in;
+    }
 
-🎯 **Software Developer | Data Analyst | RPA Developer**
+    header {
+      text-align: center;
+      padding: 2rem;
+    }
 
-Apasionado por el desarrollo de software y el análisis de datos. Me encanta construir soluciones inteligentes usando tecnologías modernas. Con experiencia en desarrollo web y móvil, automatización de procesos (RPA), dashboards interactivos, y diseño UI/UX.
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 0.5rem;
+    }
 
----
+    p {
+      font-size: 1.2rem;
+      margin-top: 0;
+    }
 
-## 🚀 Sobre mí
+    section {
+      max-width: 900px;
+      margin: auto;
+      padding: 2rem;
+    }
 
-- 🎓 Estudiante de Ingeniería en Software en **UTXJ**
-- 🔍 En busca de retos para crecer técnica y profesionalmente
-- 💻 Con experiencia en proyectos **académicos y profesionales**
-- 🌐 Amante del **desarrollo fullstack**, **automatización**, y **visualización de datos**
+    .card {
+      background-color: rgba(255, 255, 255, 0.1);
+      border-radius: 10px;
+      padding: 1.5rem;
+      margin-bottom: 1rem;
+      transition: transform 0.3s ease;
+    }
 
----
+    .card:hover {
+      transform: scale(1.02);
+    }
 
-## 🛠️ Tecnologías y Herramientas
+    footer {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: #ccc;
+    }
 
-### 💡 Lenguajes
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Christian Paul Rodriguez Perez</h1>
+    <p>Software Developer | Data Analyst | RPA Developer</p>
+  </header>
 
-### 🖥️ Frontend
-![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+  <section>
+    <div class="card">
+      <h2>🚀 Sobre mí</h2>
+      <p>Estudiante de Ingeniería en Software en UTXJ. Apasionado por el desarrollo fullstack, automatización y visualización de datos.</p>
+    </div>
 
-### 🧠 Backend / Bases de Datos
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+    <div class="card">
+      <h2>🛠 Tecnologías</h2>
+      <p>Java, JavaScript, Python, SQL, Angular, React Native, Node.js, MongoDB, UiPath, Power BI, Figma, Docker, GitHub, entre otras.</p>
+    </div>
 
-### 🛠 Herramientas
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![UiPath](https://img.shields.io/badge/UiPath-FE5C00?style=for-the-badge&logo=uipath&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+    <div class="card">
+      <h2>💼 Experiencia</h2>
+      <ul>
+        <li>RPA Developer en NUBAY (2025)</li>
+        <li>Data Analyst en UTXJ (2023-2024)</li>
+        <li>Web Developer en UTXJ (2022-2023)</li>
+        <li>Mobile Developer en CBTIS (2021-2022)</li>
+      </ul>
+    </div>
 
----
-
-## 💼 Experiencia Profesional
-
-- **Data Analyst**  
-  `Universidad Tecnológica de Xicotepec de Juárez (2024-2025)`  
-  📊 Análisis de datos académicos y visualización con **Power BI** y **Python**
-
-- **RPA Developer**  
-  `NUBAY (2023-2024)`  
-  ⚙️ Automatización de procesos con **UiPath**, integración con Office y desarrollo de chatbot para flujo de trabajo
-
-- **Web Developer**  
-  `UTXJ (2022-2023)`  
-  🌐 Desarrollo de interfaces responsivas con **Angular**, **JavaScript**, y **Node.js**
-
-- **Mobile Developer**  
-  `C.B.T.I.S (2021-2022)`  
-  📱 Aplicaciones educativas con **React Native**, diseño UI/UX en **Figma** y **Adobe XD**
-
-- **Data Entry Assistant**  
-  `ESC. Nezahualcoyotl (2020-2021)`  
-  📁 Gestión de datos administrativos con **SQL CRUD** y **Microsoft Excel**
-
----
-
-## 📚 Formación Académica
-
-- 🎓 **Ingeniería en Software Developer** – UTXJ *(2023 - Actualmente)*
-- 🎓 **Técnico en Programación** – CBTIS *(2020 - 2023)*
-
----
-
-## 🧠 Habilidades Blandas
-
-- 🔹 Control de estrés  
-- 🔹 Responsabilidad y autodisciplina  
-- 🔹 Comunicación efectiva  
-- 🔹 Adaptabilidad a la presión  
-- 🔹 Aprendizaje autónomo
-
----
-
-## 🌍 Idiomas
-
-- 🇲🇽 Español: Nativo  
-- 🇺🇸 Inglés: Intermedio (B1) – en proceso de mejora
-
----
-
-## 📫 Contacto
-
-- ✉️ **[christianpaulrodriguezperez@gmail.com](mailto:christianpaulrodriguezperez@gmail.com)**  
-- 📱 **776-153-2728**  
-- 🌐 **[LinkedIn](www.linkedin.com/in/christian-paul-rodriguez-perez-1616b3374)** 
-
----
-
-> _"Transformo ideas en soluciones digitales que impactan."_ 🚀
-
+    <div class="card">
+      <h2>📫 Contacto</h2>
+      <p>Email: christianpaulrodriguezperez@gmail.com</p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/in/christian-paul-rodriguez-perez-1616b3374/" target="_blank" style="color>
+    <p>© 2025 Christian Paul Rodriguez Perez</p>
+  </footer>
+</body>
+</html>
